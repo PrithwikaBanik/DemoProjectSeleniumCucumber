@@ -1,0 +1,4 @@
+org/example/config/ConfigurationManager.class
+org/example/config/BrowserFactory.class
+org/example/utils/Screenshot.class
+org/example/utils/DriverManager.class

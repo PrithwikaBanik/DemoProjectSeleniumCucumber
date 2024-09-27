@@ -1,0 +1,29 @@
+# IntelliJ IDEA settings
+.idea/
+.iml
+*.iml
+.iws
+.idea/.name
+.idea/.workspace
+.idea/.tasks.xml
+.idea/dataSources.xml
+.idea/dataSources.local.xml
+.idea/encodings.xml
+.idea/libraries/
+.idea/modules.xml
+.idea/vcs.xml
+.idea/copyright/
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/uiDesigner.xml
+.idea/gradle.xml
+.idea/maven.xml
+.idea/kotlin/
+.idea/caches/
+
+
+# Other IDE settings (if applicable)
+.settings/
+.classpath
+.project
+.DS_Store
